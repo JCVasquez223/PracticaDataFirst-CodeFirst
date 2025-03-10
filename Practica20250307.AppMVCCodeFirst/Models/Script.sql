@@ -1,0 +1,1 @@
+CREATE DATABASE Practica20250308CodeFirst;
